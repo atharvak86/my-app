@@ -1,9 +1,9 @@
-#MyApp: Angular TypeScript Project
+# MyApp: Angular TypeScript Project
 
-###Description
+### Description
 This repository contains a web application developed using Angular framework, TypeScript, HTML, and CSS. Angular is a powerful framework for building dynamic web applications, and this project demonstrates its usage along with TypeScript for enhanced development experience and type safety, and HTML/CSS for creating user interfaces.
 
-###Installation
+### Installation
 To run this project locally, follow these steps:
 
 1. Clone the Repository
